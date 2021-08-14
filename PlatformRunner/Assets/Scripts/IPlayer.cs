@@ -1,0 +1,4 @@
+interface IPlayer
+{
+    void SetAnimation();
+}
